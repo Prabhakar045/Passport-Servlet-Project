@@ -10,8 +10,11 @@ response.jsp -> consider it as home page
 
 
 Home page
-
 ![Screenshot (69)](https://github.com/Prabhakar045/Passport-Servlet-Project/assets/104162322/f9aba43c-da5a-407a-b964-b353301a93b1)
+
+Register page
+![Screenshot (74)](https://github.com/Prabhakar045/Passport-Servlet-Project/assets/104162322/f55b9b58-4612-4292-92f6-568dbf05c44a)
+
 
 Login page
 ![Screenshot (70)](https://github.com/Prabhakar045/Passport-Servlet-Project/assets/104162322/f6adb6aa-eb10-49a0-b058-8a9bbb9b5c71)
